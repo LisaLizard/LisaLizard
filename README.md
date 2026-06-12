@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 🌱 Learning by building: check out my featured project below
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,aws,azure,mysql,php,py,postgrasql)](https://skillicons.dev)
 
