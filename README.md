@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 📌 My latest project
 
-**[Marketing Attribution Dashboard](https://github.com/LisaLizard/PUT-YOUR-REPO-NAME-HERE)**
+**[Marketing Attribution Dashboard](https://github.com/LisaLizard/Marketing-Attribution-Dashboard)**
 SQL analysis of a synthetic mobile game dataset — channel performance, attribution models, and player segmentation.
 `Python` · `PostgreSQL` · `Power BI`
 
