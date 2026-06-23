@@ -1,4 +1,4 @@
-## Hi there, I'm Lisa 👋
+## Hi there, I'm Lisa 🦎
 
 <!--
 **LisaLizard/LisaLizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,22 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 **Data Analytics (BBA)** student at **Haaga-Helia University of Applied Sciences**, Helsinki
-📊 Aspiring **Data Analyst / BI Analyst** — currently looking for an internship in Finland or remote from all over the world :)
-💡 Absolutely love learning and teaching
-🌱 I stand for non-violence, non-cruelty, LGBTQ+, and veganism
-
-## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,aws,azure,mysql,php,py,postgrasql)](https://skillicons.dev)
-
-
 
 🎓 Data Analytics (BBA) student at **Haaga-Helia University of Applied Sciences**, Helsinki
-
 📊 Aspiring **Data Analyst / BI Analyst** — currently looking for an internship in Finland or remote from all over the world
-
 💡 Absolutely love learning and teaching
-
 🌱 I stand for non-violence, non-cruelty, LGBTQ+, and veganism
 
 ## 🛠️ Tech Stack
