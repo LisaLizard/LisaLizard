@@ -37,5 +37,5 @@ SQL analysis of a synthetic mobile game dataset — channel performance, attribu
 
 ## 🧸 Let's stay in touch
 
-📧 **Email:** lisa.maevskaia@gmail.com
-💼 **LinkedIn:** [elizaveta-maevskaia](https://www.linkedin.com/in/elizaveta-maevskaia-7883b0296/)
+🐴 **Email:** lisa.maevskaia@gmail.com
+🦄 **LinkedIn:** [elizaveta-maevskaia](https://www.linkedin.com/in/elizaveta-maevskaia-7883b0296/)
