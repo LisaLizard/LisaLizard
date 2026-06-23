@@ -15,10 +15,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Data Analytics (BBA) student at Haaga-Helia University of Applied Sciences, Helsinki
-📊 Aspiring Data Analyst / BI Analyst — currently looking for an internship in Finland
-🌱 Learning by building: check out my featured project below
+🎓 **Data Analytics (BBA)** student at **Haaga-Helia University of Applied Sciences**, Helsinki
+📊 Aspiring **Data Analyst / BI Analyst** — currently looking for an internship in Finland or remote from all over the world :)
+💡 Absolutely love learning and teaching
+🌱 I stand for non-violence, non-cruelty, LGBTQ+, and veganism
 
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,aws,azure,mysql,php,py,postgrasql)](https://skillicons.dev)
 
+
+
+🎓 Data Analytics (BBA) student at **Haaga-Helia University of Applied Sciences**, Helsinki
+
+📊 Aspiring **Data Analyst / BI Analyst** — currently looking for an internship in Finland or remote from all over the world
+
+💡 Absolutely love learning and teaching
+
+🌱 I stand for non-violence, non-cruelty, LGBTQ+, and veganism
+
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,anaconda,mysql,postgres,php,aws,azure,html,css,js)](https://skillicons.dev)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+## 📌 My latest project
+
+**[Marketing Attribution Dashboard](https://github.com/LisaLizard/PUT-YOUR-REPO-NAME-HERE)**
+SQL analysis of a synthetic mobile game dataset — channel performance, attribution models, and player segmentation.
+`Python` · `PostgreSQL` · `Power BI`
+
+## 🧸 Let's stay in touch
+
+📧 **Email:** lisa.maevskaia@gmail.com
+💼 **LinkedIn:** [elizaveta-maevskaia](https://www.linkedin.com/in/elizaveta-maevskaia-7883b0296/)
